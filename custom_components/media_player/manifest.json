@@ -3,7 +3,7 @@
   "config_flow": false,
   "dependencies": [],
   "documentation": "https://github.com/jnimmo/haas-smartvideohub",
-  "domain": "smartvideohub",
+  "domain": "media_player",
   "iot_class": "assumed_state",
   "name": "smartvideohub",
   "requirements": [],
